@@ -3,7 +3,7 @@
 
 ## Gaussian Naive Bayer 
 
-## KNN (Mahalanobis dist) 
+## PCA + KNN (Mahalanobis dist) 
 
 ## Multinomial Naive Bayes
 
